@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="993f6807-252b-46d6-952e-60b36dfdf2c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnyXpGHmeUGEsUSk943TuNkpH9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium-practice2/selenium-practice" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ajkas\IdeaProjects\selenium-practice\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAlert">
+    <configuration name="TestFindFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumPractice2.TestFindFirstElement" />
+      <module name="selenium-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="seleniumPractice2" />
+      <option name="MAIN_CLASS_NAME" value="seleniumPractice2.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyErrorMessageWhenWrongUserNameIsEntered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumPractice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumPractice2" />
+      <option name="MAIN_CLASS_NAME" value="seleniumPractice2.LoginTest" />
+      <option name="METHOD_NAME" value="verifyErrorMessageWhenWrongUserNameIsEntered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldNavigateToLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <option name="PACKAGE_NAME" value="seleniumPractice2" />
+      <option name="MAIN_CLASS_NAME" value="seleniumPractice2.LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToLoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Alert" />
+      <option name="MAIN_CLASS_NAME" value="Alert.TestAlert" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAlert" />
+        <item itemvalue="JUnit.LoginTest.verifyErrorMessageWhenWrongUserNameIsEntered" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.verifyUserShouldNavigateToLoginPage" />
+        <item itemvalue="Application.TestFindFirstElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993f6807-252b-46d6-952e-60b36dfdf2c7" name="Default Changelist" comment="" />
+      <created>1583592694788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583592694788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584535745019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1584535745019" />
+    <state x="507" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583676820703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583676820703" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584882275065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584882275065" />
+    <state width="1493" height="536" key="GridCell.Tab.0.bottom" timestamp="1584800870844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="536" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584800870844" />
+    <state width="1493" height="536" key="GridCell.Tab.0.center" timestamp="1584800870839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="536" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584800870839" />
+    <state width="1493" height="536" key="GridCell.Tab.0.left" timestamp="1584800870839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="536" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584800870839" />
+    <state width="1493" height="536" key="GridCell.Tab.0.right" timestamp="1584800870843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="536" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584800870843" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1584199567614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584199567614" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584881617689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584881617689" />
+    <state x="209" y="40" key="new project wizard" timestamp="1584358676660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584358676660" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium_practice$LoginTest.ic" NAME="LoginTest Coverage Results" MODIFIED="1584481063012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

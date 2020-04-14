@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YourHomeTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.129">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToAboutUsPage" time="1.745" classname="uk.wcht.org.testsuite.YourHomeTest" />
+                <testcase name="verifyUserShouldNavigateToYourHomePage" time="1.384" classname="uk.wcht.org.testsuite.YourHomeTest" />
+      
+</testsuite>
